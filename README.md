@@ -8,3 +8,5 @@ Here is a link to the class website: http://cs61a.org/ Here is a link to the pro
 The only files modified in this project is hog.py
 
 Here is some information from the class website on the project:In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes.
+
+For more detailed game rules (including the special cases) please refer to the project's website
